@@ -1,0 +1,5 @@
+newmtl PaddleMat
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.200 0.200 0.200
+map_Kd paddle_texture.png

@@ -6,8 +6,8 @@ public class LevelManager : MonoBehaviour
     public GameObject[] brickPrefabs;
     public Transform parent;
 
-    public int rows = 5;
-    public int cols = 8;
+    public int rows;
+    public int cols;
     public float spacing = 10f;
 
     public int brickCount;
